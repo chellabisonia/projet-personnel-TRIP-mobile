@@ -4,17 +4,17 @@ const s = StyleSheet.create({
   img: {
     width: 120,
     height: 120,
-    backgroundColor: "white",
-   right: -60,
-    
+    backgroundColor: "#D46F4D",
+    right: -60,
   },
-  txt:{
-    fontSie: 36,
-    color:"#5784BA",
+  txt: {
+    fontSize: 15,
+    color: "#430C05",
+    // color:"white",
     marginTop: 30,
-    justifyContent:"center",
-    alignItems:"center",
-  }
+    justifyContent: "center",
+    alignItems: "center",
+  },
 });
 
 export { s };

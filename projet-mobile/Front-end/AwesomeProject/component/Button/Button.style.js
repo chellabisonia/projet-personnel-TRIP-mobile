@@ -15,8 +15,8 @@ alignSelf:"center",
 backgroundColor:"#FAFAFA"
 },
 txt:{
-color:"grey",
-
+color:"#430C05",
+fontWeight:"bold",
 
 }
 

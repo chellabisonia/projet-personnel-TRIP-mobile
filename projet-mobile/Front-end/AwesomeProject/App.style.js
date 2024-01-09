@@ -6,6 +6,12 @@ header:{
 
     flex: 1,
 },
+imgbg:{
+flex: 1,
+justifyContent:"center",
+// resizeMode:"cover",
+// padding:20,
+},
 input1:{
 
     flex: 1,
